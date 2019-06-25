@@ -2,7 +2,7 @@
 title: "ufoSightings"
 author: "Benjamin C. Dean"
 date: "25/06/2019"
-output: html_document
+output: rmarkdown::github_document
 ---
 
 This is the TidyTuesday for the week of 25 June 2019. This week's dataset is all about UFO sightings over the past few decades. 
